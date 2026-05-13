@@ -1,12 +1,11 @@
 {
-  "name": "rajesh-portfolio",
+  "name": "rajeshk-portfolio",
   "version": "1.0.0",
-  "description": "Rajesh K — Engineering the Edge — Portfolio with JARVIS AI",
   "private": true,
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
   "engines": {
     "node": ">=18"
-  },
-  "scripts": {
-    "dev": "vercel dev"
   }
 }
